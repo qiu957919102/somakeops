@@ -3,18 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1512475810767">
+      <file name="/start_script.py" timestamp="1513097599765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/第一个正式写的项目/somakeops/Assets/admin.py" timestamp="1513095097477" />
       <file name="F:/第一个正式写的项目/somakeops/test.py" timestamp="1512958347911">
         <mark key="[" line="7" column="209" />
         <mark key="]" line="7" column="210" />
         <mark key="." line="7" column="210" />
       </file>
+      <file name="F:/第一个正式写的项目/somakeops/somakeops/settings.py" timestamp="1513097552387">
+        <mark key="[" line="135" column="22" />
+        <mark key="]" line="135" column="22" />
+        <mark key="." line="135" column="22" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">PA==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
