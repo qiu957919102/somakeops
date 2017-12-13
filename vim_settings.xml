@@ -6,24 +6,32 @@
       <file name="/start_script.py" timestamp="1513097599765">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/python__project/super_host_manger/super_host_manger/settings.py" timestamp="1513182032407" />
+      <file name="F:/python__project/super_host_manger/templates/host/host_base.html" timestamp="1513182159142" />
       <file name="F:/第一个正式写的项目/somakeops/test.py" timestamp="1512958347911">
         <mark key="[" line="7" column="209" />
         <mark key="]" line="7" column="210" />
         <mark key="." line="7" column="210" />
       </file>
-      <file name="F:/第一个正式写的项目/somakeops/somakeops/settings.py" timestamp="1513097552387">
-        <mark key="[" line="135" column="22" />
-        <mark key="]" line="135" column="22" />
-        <mark key="." line="135" column="22" />
+      <file name="F:/第一个正式写的项目/somakeops/templates/base.html" timestamp="1513182479820">
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="33" column="6" />
+      </file>
+      <file name="F:/第一个正式写的项目/somakeops/templates/login.html" timestamp="1513182314393" />
+      <file name="F:/第一个正式写的项目/somakeops/somakeops/settings.py" timestamp="1513182288199">
+        <mark key="[" line="138" column="72" />
+        <mark key="]" line="138" column="72" />
+        <mark key="." line="138" column="72" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>义</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>义</text>
       </register>
     </registers>
     <search>
