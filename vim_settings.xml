@@ -6,17 +6,13 @@
       <file name="/start_script.py" timestamp="1513097599765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/第一个正式写的项目/testtttt/weixin.py" timestamp="1515729544191">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="39" column="3" />
-        <mark key="." line="13" column="13" />
-      </file>
       <file name="/Dummy.txt" timestamp="1519542081235">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/第一个正式写的项目/server_manager/server_manager/urls.py" timestamp="1513520164990">
-        <mark key="[" line="21" column="0" />
+      <file name="F:/第一个正式写的项目/server_admin/app1/views.py" timestamp="1519544408580">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="F:/第一个正式写的项目/somakeops/test.py" timestamp="1512958347911">
         <mark key="[" line="7" column="209" />
@@ -40,15 +36,24 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="F:/第一个正式写的项目/somakeops/Assets/tests.py" timestamp="1519540572685">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-      </file>
       <file name="F:/第一个正式写的项目/somakeops/somakeops/settings.py" timestamp="1513182288199">
         <mark key="[" line="138" column="72" />
         <mark key="]" line="138" column="72" />
         <mark key="." line="138" column="72" />
+      </file>
+      <file name="F:/第一个正式写的项目/testtttt/weixin.py" timestamp="1515729544191">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="39" column="3" />
+        <mark key="." line="13" column="13" />
+      </file>
+      <file name="F:/第一个正式写的项目/server_manager/server_manager/urls.py" timestamp="1513520164990">
+        <mark key="[" line="21" column="0" />
+      </file>
+      <file name="F:/第一个正式写的项目/somakeops/Assets/tests.py" timestamp="1519540572685">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -56,11 +61,14 @@
       <jump line="0" column="0" filename="F:/第一个正式写的项目/somakeops/Assets/views.py" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text />
       </register>
     </registers>
     <search>
