@@ -28,6 +28,11 @@
         <mark key="]" line="33" column="6" />
         <mark key="." line="33" column="6" />
       </file>
+      <file name="F:/第一个正式写的项目/somakeops/testtt.py" timestamp="1519540361725">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="F:/第一个正式写的项目/somakeops/somakeops/settings.py" timestamp="1513182288199">
         <mark key="[" line="138" column="72" />
         <mark key="]" line="138" column="72" />
@@ -37,10 +42,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
     </registers>
     <search>
