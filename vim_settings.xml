@@ -28,10 +28,19 @@
         <mark key="]" line="33" column="6" />
         <mark key="." line="33" column="6" />
       </file>
+      <file name="F:/第一个正式写的项目/somakeops/Assets/views.py" timestamp="1519540552408">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="F:/第一个正式写的项目/somakeops/testtt.py" timestamp="1519540361725">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="F:/第一个正式写的项目/somakeops/Assets/tests.py" timestamp="1519540572685">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="F:/第一个正式写的项目/somakeops/somakeops/settings.py" timestamp="1513182288199">
         <mark key="[" line="138" column="72" />
@@ -39,13 +48,16 @@
         <mark key="." line="138" column="72" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="1" column="0" filename="F:/第一个正式写的项目/somakeops/Assets/views.py" />
+      <jump line="0" column="0" filename="F:/第一个正式写的项目/somakeops/Assets/views.py" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>o</text>
       </register>
     </registers>
     <search>
