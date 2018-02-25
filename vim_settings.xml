@@ -6,8 +6,16 @@
       <file name="/start_script.py" timestamp="1513097599765">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/第一个正式写的项目/auto_client/run.py" timestamp="1519562679371">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1519542081235">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/第一个正式写的项目/auto_server/auto_server/urls.py" timestamp="1519563258961">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="F:/第一个正式写的项目/server_admin/app1/views.py" timestamp="1519544408580">
         <mark key="[" line="1" column="0" />
@@ -31,6 +39,9 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="/manage.py@auto_server" timestamp="1519562968877">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="F:/第一个正式写的项目/somakeops/testtt.py" timestamp="1519540361725">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -50,6 +61,10 @@
       <file name="F:/第一个正式写的项目/server_manager/server_manager/urls.py" timestamp="1513520164990">
         <mark key="[" line="21" column="0" />
       </file>
+      <file name="/Django Console" timestamp="1519562853243">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/urls.py" timestamp="1519563232786" />
       <file name="F:/第一个正式写的项目/somakeops/Assets/tests.py" timestamp="1519540572685">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
@@ -62,13 +77,19 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcGF0aAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>u</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>u</text>
       </register>
     </registers>
     <search>
